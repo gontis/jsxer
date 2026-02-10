@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o bin/release/dll/lib-jsxer.dylib -install_name @rpath/lib-jsxer.dylib "CMakeFiles/jsxer-dll.dir/src/dll/library.cpp.o"  bin/release/static/libjsxer.a _deps/fmt-build/libfmt.a

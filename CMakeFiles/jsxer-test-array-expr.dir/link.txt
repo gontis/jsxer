@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/jsxer-test-array-expr.dir/tests/src/array-expr.cpp.o" -o jsxer-test-array-expr  bin/release/static/libjsxer.a _deps/fmt-build/libfmt.a

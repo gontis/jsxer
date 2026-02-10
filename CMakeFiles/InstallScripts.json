@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/gontis/Documents/git/jsxer/cmake_install.cmake",
+		"/Users/gontis/Documents/git/jsxer/_deps/fmt-build/cmake_install.cmake",
+		"/Users/gontis/Documents/git/jsxer/_deps/plog-build/cmake_install.cmake",
+		"/Users/gontis/Documents/git/jsxer/_deps/cli11-build/cmake_install.cmake",
+		"/Users/gontis/Documents/git/jsxer/_deps/cli11-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
